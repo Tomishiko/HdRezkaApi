@@ -1,5 +1,5 @@
 # HdRezkaApi
-## Original repo: https://github.com/SuperZombi/HdRezkaApi
+### Original repo: https://github.com/SuperZombi/HdRezkaApi
 
 ### Install:
 ```
