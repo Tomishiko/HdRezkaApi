@@ -1,6 +1,5 @@
 # HdRezkaApi
-
-<img src="https://shields.io/badge/version-v7.1-blue">
+## Original repo: https://github.com/SuperZombi/HdRezkaApi
 
 ### Install:
 ```
